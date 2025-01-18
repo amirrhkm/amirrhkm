@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/FRPRLVXkKp5Xuqs2eK/giphy.gif?cid=6c09b952395avrlmdo0phfd9ms5xu7sirrk43y0w1n0r18wd&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding Workflow GIF" />
+  <img 
+    src="https://media3.giphy.com/media/FRPRLVXkKp5Xuqs2eK/giphy.gif?cid=6c09b952395avrlmdo0phfd9ms5xu7sirrk43y0w1n0r18wd&ep=v1_stickers_search&rid=giphy.gif&ct=s" 
+    alt="Coding Workflow GIF" 
+    style="width: 200px; height: auto;" />
 </div>
+
 
 ---
 
