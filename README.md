@@ -10,12 +10,9 @@
 
 <div align="center">
 
-Hallo! Amir Nurhakim here,  
-A software engineer @silentmode,  
-I prefer having a bit of knowledge on everything,  
-rather than mastering just one thing,  
-used to play FPS games and I'd say raw-skill wise, I'm above-average,  
-I like creative stuffs but only for fun (no pressure)
+Hallo! Amir Nurhakim here
+I'm a software engineer at Silentmode
+Feel free to contact me!
 
 </div>
 
