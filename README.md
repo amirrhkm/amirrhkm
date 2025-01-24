@@ -1,8 +1,8 @@
 <div align="center">
   <img 
-    src="https://media3.giphy.com/media/FRPRLVXkKp5Xuqs2eK/giphy.gif?cid=6c09b952395avrlmdo0phfd9ms5xu7sirrk43y0w1n0r18wd&ep=v1_stickers_search&rid=giphy.gif&ct=s" 
+    src="https://i.pinimg.com/originals/8b/22/c2/8b22c2b446f9f539693c305d7e599ef6.gif" 
     alt="ChaiTea The Tabby Cat" 
-    style="width: 200px; height: auto;" />
+    style="width: 700px; height: auto;" />
 </div>
 
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-Hallo! Amir Nurhakim here
-I'm a software engineer at Silentmode
-Feel free to contact me!
+Hallo! Amir Nurhakim here,  
+A software engineer @silentmode,  
+Feel free to contact me anytime!
 
 </div>
 
@@ -97,4 +97,3 @@ Feel free to contact me!
     </a>
   </div>
 </div>
-
