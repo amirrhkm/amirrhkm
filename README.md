@@ -1,8 +1,8 @@
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/8b/22/c2/8b22c2b446f9f539693c305d7e599ef6.gif" 
-    alt="ChaiTea The Tabby Cat" 
-    style="width: 700px; height: auto;" />
+    src="https://media.tenor.com/6aWBg0rV1EYAAAAj/toothless-dancing.gif" 
+    alt="toothless" 
+    style="width: 400px; height: auto;" />
 </div>
 
 
