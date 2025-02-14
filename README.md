@@ -11,7 +11,7 @@
 <div align="center">
 
 Hallo! Amir Nurhakim here,  
-A software engineer @silentmode,  
+A devops engineer (previously swe) @silentmode,  
 Feel free to contact me anytime!
 
 </div>
