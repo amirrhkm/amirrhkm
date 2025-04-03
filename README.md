@@ -10,9 +10,7 @@
 
 <div align="center">
 
-Hallo! Amir Nurhakim here,  
-A devops engineer (previously swe) @silentmode,  
-Feel free to contact me anytime!
+If disloyalty was forgivable then the devil would be sitting next to God.
 
 </div>
 
