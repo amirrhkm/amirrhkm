@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-    src="https://media.tenor.com/6aWBg0rV1EYAAAAj/toothless-dancing.gif" 
-    alt="toothless" 
+    src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMm14bGMzbTkwbnRxaW44bWhjd3ExdWlydDZ1c2wybzRlMGJjd2dmeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1zRfp0Jwsag4yPekP4/source.gif" 
+    alt="cozyahh" 
     style="width: 400px; height: auto;" />
 </div>
 
@@ -91,7 +91,10 @@ If disloyalty was forgivable then the devil would be sitting next to God.
       <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" alt="Prometheus" width="40" height="40"/>
     </a>
     <a href="https://opensearch.org/" target="_blank" rel="noreferrer">
-      <img src="https://opensearch.org/assets/brand/PNG/Mark/opensearch_mark_default.png" alt="OpenSearch" width="40" height="40"/>
+      <img src="https://opensearch.org/wp-content/uploads/2025/01/opensearch_mark_default.png" alt="OpenSearch" width="40" height="40"/>
+    </a>
+    <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
+      <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="40" height="40"/>
     </a>
   </div>
 </div>
