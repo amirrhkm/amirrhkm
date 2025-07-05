@@ -1,21 +1,21 @@
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/dd/bd/bb/ddbdbb4e52eca46511756f9e41cab21b.gif" 
+    src="https://media.tenor.com/i28Aj_W8RIkAAAAM/cat-template-cat-meme.gif" 
     alt="gif" 
     style="width: 400px; height: auto;" />
 </div>
 
 <div align="center">
   <p class="quote">
-    stuck in a graveyard of memories,<br />
-    pretending it’s just a visit when I never really left.
+    born to play games,<br />
+    forced to know whatever devops is
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <p>cursed with:</p>
+  <p>⬇️ boleh lah tahu sikit sikit pasal ni ⬇️</p>
   <div align="center">
     <a href="https://golang.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="20" height="20"/>
@@ -30,7 +30,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20"/>
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" width="20" height="20"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="20" height="20"/>
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"/>
@@ -89,7 +89,7 @@
       <img src="https://opensearch.org/wp-content/uploads/2025/01/opensearch_mark_default.png" alt="OpenSearch" width="20" height="20"/>
     </a>
     <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="20" height="20"/>
+      <img src="https://img.icons8.com/fluent/512/terraform.png" alt="Terraform" width="20" height="20"/>
     </a>
   </div>
 </div>
