@@ -83,7 +83,7 @@
       <img src="https://www.nuget.org/profiles/OpenTelemetry/avatar?imageSize=512" alt="OpenTelemetry" width="20" height="20"/>
     </a>
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" alt="Prometheus" width="20" height="20"/>
+      <img src="https://prometheus.io/twitter-image.png?b370f6418ef38b42" alt="Prometheus" width="20" height="20"/>
     </a>
     <a href="https://opensearch.org/" target="_blank" rel="noreferrer">
       <img src="https://opensearch.org/wp-content/uploads/2025/01/opensearch_mark_default.png" alt="OpenSearch" width="20" height="20"/>
