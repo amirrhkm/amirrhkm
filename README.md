@@ -15,8 +15,8 @@
 ---
 
 ### 🍱 My Daily Diet
-- 🌩️ Maintain & secure multi‑env **AWS** (staging / UAT / production)  
-- 🏗️ Migrate **AWS CDK/Serverless** → central **Terraform** monorepo  
+- 🌩️ Maintain multi‑env **AWS** (staging / UAT / production)  
+- 🏗️ Migrate **AWS CDK/Serverless** → central **Terraform**  
 - 🛠️ Resolve ad‑hoc issues in **AWS** (networking, deployments, configs)  
 - 📈 Build proactive monitoring & remediation for stable, resilient infra
 
@@ -79,6 +79,3 @@ status:
   vibe: "🎧 auto.devops.mode"
 
 ```
-<p align="center">
-  <img src="https://i.imgur.com/2nCt3Sbl.png" alt="Spotify Now Playing" width="400">
-</p>
