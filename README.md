@@ -1,95 +1,84 @@
-<div align="center">
-  <img 
-    src="https://media.tenor.com/i28Aj_W8RIkAAAAM/cat-template-cat-meme.gif" 
-    alt="gif" 
-    style="width: 400px; height: auto;" />
-</div>
+<h2> 🌙 Hey, I’m Amir Nurhakim! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-<div align="center">
-  <p class="quote">
-    born to play games,<br />
-    forced to know whatever devops is
-  </p>
-</div>
+<img align="right" src="https://botlofigirl.com/wp-content/uploads/2024/01/effortless_lofi_streaming-1024x630.png" width="430" style="border-radius:12px;">
+
+<p>
+  <em>
+    🎓 Computer Science (Multimedia) Graduate @ <a href="https://www.upm.edu.my/">Universiti Putra Malaysia</a><br>
+    🚀 DevOps Engineer @ <a href="https://www.silentmode.my/">Silentmode Sdn. Bhd.</a>
+  </em>
+</p>
+
+[![Linkedin: mrnrhkm](https://img.shields.io/badge/-mrnrhkm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrnrhkm/)](https://www.linkedin.com/in/mrnrhkm/)
+[![GitHub amirrhkm](https://img.shields.io/github/followers/amirrhkm?label=follow&style=social)](https://github.com/amirrhkm)
 
 ---
 
-<div align="center">
-  <p>⬇️ boleh lah tahu sikit sikit pasal ni ⬇️</p>
-  <div align="center">
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="20" height="20"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20"/>
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="20" height="20"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="20" height="20"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="20" height="20"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="20" height="20"/>
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="20" height="20"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20" height="20"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/>
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="20" height="20"/>
-    </a>
-    <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="20" height="20"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/>
-    </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="20" height="20"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20" height="20"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="20" height="20"/>
-    </a>
-    <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.nuget.org/profiles/OpenTelemetry/avatar?imageSize=512" alt="OpenTelemetry" width="20" height="20"/>
-    </a>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-      <img src="https://prometheus.io/twitter-image.png?b370f6418ef38b42" alt="Prometheus" width="20" height="20"/>
-    </a>
-    <a href="https://opensearch.org/" target="_blank" rel="noreferrer">
-      <img src="https://opensearch.org/wp-content/uploads/2025/01/opensearch_mark_default.png" alt="OpenSearch" width="20" height="20"/>
-    </a>
-    <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/fluent/512/terraform.png" alt="Terraform" width="20" height="20"/>
-    </a>
-  </div>
-</div>
+### 🍱 My Daily Diet
+- 🌩️ Maintain & secure multi‑env **AWS** (staging / UAT / production)  
+- 🏗️ Migrate **AWS CDK/Serverless** → central **Terraform** monorepo  
+- 🛠️ Resolve ad‑hoc issues in **AWS** (networking, deployments, configs)  
+- 📈 Build proactive monitoring & remediation for stable, resilient infra
+
+---
+```yaml
+apiVersion: devops.silentmode.my/v1
+kind: DevOpsEngineer
+metadata:
+  name: amirnurhakim
+  namespace: production
+  labels:
+    role: devops-engineer
+    cloud: aws
+    vibe: nonchalant
+    timezone: MYT
+  annotations:
+    linkedin: "https://www.linkedin.com/in/mrnrhkm/"
+    github: "https://github.com/amirrhkm"
+    motto: "infra steady, vibes steady 🤙"
+spec:
+  container:
+    - name: toolkit
+      image: 28537.dkr.ecr.ap-southeast-1.amazonaws.com/amir/toolkit:latest
+      env:
+      - name: PROGRAMMING_LANGUAGES
+        value: ["Typescript", "Javascript", "Golang", "PHP", "Python"]
+      - name: CLOUD_PROVIDER
+        value: "AWS"
+      - name: INFRASTRUCTURE_AS_CODE
+        value: ["AWS_CDK", "Serverless", "Terraform"]
+      - name: FRAMEWORK
+        value: ["Laravel", "NestJS", "VueJS", "NextJS"]
+      - name: OBSERVABILITY
+        value: ["SonarQube", "CloudWatch", "Sentry", "OpenTelemetry", "DataPrepper", "Prometheus", "Grafana", "OpenSearch"]
+      - name: CICD
+        value: ["Gitlab_CI", "Github_Action", "systemd", "rsyslog"]
+      - name: TOOLS
+        value: ["steampipe", "kops", "helm", "kubectl"]
+      - name: NETWORK_PROTOCOLS
+        value: ["HTTP", "TLS", "MQTT", "SSH", "SFTP"]
+      - name: DATABASE
+        value: ["MySQL", "Postgres", "DynamoDB", "ElastiCache"]
+      - name: SECURITY
+        value: ["GuardDuty", "WAF"]
+  resources:
+    requests:
+      focus: "high"
+      coffee: "2 cups/day"
+    limits:
+      burnout: "low"
+  readinessProbe:
+    command: ["zen-boot.sh"]
+    initialDelaySeconds: 3
+    periodSeconds: 10
+  livenessProbe:
+    command: ["echo", "still vibin'…"]
+    periodSeconds: 60
+status:
+  state: "Ready"
+  vibe: "🎧 auto.devops.mode"
+
+```
+<p align="center">
+  <img src="https://i.imgur.com/2nCt3Sbl.png" alt="Spotify Now Playing" width="400">
+</p>
