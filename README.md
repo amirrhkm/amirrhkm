@@ -1,4 +1,4 @@
-<h2> 🌙 Hey, I’m Amir Nurhakim! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+<h2> 🌙 Hi, I’m Amir Nurhakim! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
 <img align="right" src="https://botlofigirl.com/wp-content/uploads/2024/01/effortless_lofi_streaming-1024x630.png" width="430" style="border-radius:12px;">
 
