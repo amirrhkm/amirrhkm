@@ -4,8 +4,8 @@
 
 <p>
   <em>
-    🎓 Computer Science (Multimedia) Graduate @ <a href="https://www.upm.edu.my/">Universiti Putra Malaysia</a><br>
-    🚀 DevOps Engineer @ <a href="https://www.silentmode.my/">Silentmode Sdn. Bhd.</a>
+    🎓 Computer Science (Multimedia) Graduate @ <a href="https://www.upm.edu.my/">UPM</a><br>
+    🚀 DevOps Engineer @ <a href="https://www.silentmode.my/">Silentmode</a>
   </em>
 </p>
 
