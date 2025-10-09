@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://64.media.tumblr.com/ea6837b6baa5de1f8a3e1658c5e30937/6f2fbf4dde4dc694-53/s500x750/cc7765fedddffa62af554c17ec1580708bf61e4a.gifv)
+<img src="https://64.media.tumblr.com/ea6837b6baa5de1f8a3e1658c5e30937/6f2fbf4dde4dc694-53/s500x750/cc7765fedddffa62af554c17ec1580708bf61e4a.gifv" width="800">
 
 ### Amir Nurhakim
 <sub>**DevOps Engineer** @ [Silentmode](https://www.silentmode.my/) | **CS (Multimedia) Graduate** @ [UPM](https://www.upm.edu.my/)</sub>
