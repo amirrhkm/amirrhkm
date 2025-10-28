@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-amirrhkm-181717?style=flat&logo=github)](https://github.com/amirrhkm)
 ![Timezone](https://img.shields.io/badge/Timezone-MYT-FF6B6B?style=flat)
 
-</div>
 
 | | |
 |---|---|
@@ -23,3 +22,6 @@
 | **Network Protocols** | ![HTTP](https://img.shields.io/badge/HTTP-005C84?style=flat) ![TLS](https://img.shields.io/badge/TLS-721412?style=flat) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat) ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat) ![SFTP](https://img.shields.io/badge/SFTP-0078D4?style=flat) ![gRPC](https://img.shields.io/badge/gRPC-EE0000?style=flat&logo=gRPC&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) ![ElastiCache](https://img.shields.io/badge/ElastiCache-C925D1?style=flat&logo=redis&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)|
 | **Security** | ![GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=flat&logo=amazon-aws&logoColor=white) ![WAF](https://img.shields.io/badge/WAF-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![Qualys](https://img.shields.io/badge/Qualys-660066?style=flat) |
+
+<sub>not all who wander are lost.</sub>
+</div>
