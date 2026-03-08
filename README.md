@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/uZvOme0r6ZsAAAAC/lando-norris-wave.gif" width="800">
+<img src="https://64.media.tumblr.com/0b46077ebacd8c96722e20016027630f/df2d0d999b6abda3-a2/s1280x1920/b95280dda77be89b324dd0b36c26678cef72511e.gif" width="800">
 
 ### Amir Nurhakim
 <sub>**DevOps Engineer** (*previously Software Engineer*) @ [Silentmode](https://www.silentmode.my/) | **CS (Multimedia) Graduate** @ [UPM](https://www.upm.edu.my/)</sub>
@@ -23,5 +23,5 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) ![ElastiCache](https://img.shields.io/badge/ElastiCache-C925D1?style=flat&logo=redis&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)|
 | **Security** | ![GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=flat&logo=amazon-aws&logoColor=white) ![WAF](https://img.shields.io/badge/WAF-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![Qualys](https://img.shields.io/badge/Qualys-660066?style=flat) |
 
-<sub>wiwiwi haha yo wassap.</sub>
+<sub>wiwiwi</sub>
 </div>
