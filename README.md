@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2024/09/01153445/charles-leclerc-celebrates-monza-win-1.jpg" width="500">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTN1bGtyOHB5dWtueHk5dG00Nmxtd2p3MjJ4ZXpxdmdoZzNwbWFiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RIqAM7VavhVQ6z06ZI/giphy.gif" width="500">
 
 ### Amir Nurhakim
 <sub>**DevOps Engineer** (*previously Software Engineer*) @ [Silentmode](https://www.silentmode.my/) | **CS (Multimedia) Graduate** @ [UPM](https://www.upm.edu.my/)</sub>
