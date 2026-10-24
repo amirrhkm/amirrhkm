@@ -26,12 +26,14 @@
 
 ## Infrastructure
 
-| Product | Clients |
-|---|---|
-| **RONPOS** | Shell MY · Shell SG · BHP · XCel · FIVE |
-| **Sentinel** | Petronas |
-
 The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS), the MQTT pipeline from on-prem sites, and every third-party integration, from SFTP report hand-offs to forecourt sales files landing straight in the cloud.
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/infra-dark.svg">
+  <img alt="Infrastructure map. Security and compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. Delivery: GitLab access, pipelines and runners; SonarQube set up before a service deploys; Qualys network scans in the pipeline. Operations: monitoring and alerts with CloudWatch and Sentry; Mailgun email delivery; MQTT and third-party integrations. Cloud foundation: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cost governance including stale resources and technical debt." src="assets/infra-light.svg" width="900">
+</picture>
+</div>
 
 > [!NOTE]
 > I build and maintain the production pipelines. When something breaks, I'm usually the person the team turns to, and I've worked through a long list of them across every environment.
@@ -48,6 +50,7 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 - **Edge and network:** WAF Bot Control blocking legitimate traffic · gateway timeouts and 5xx on login and report pages · a security-hardening change that cut off internal connectivity
 - **Third parties:** payment-authorization service outages · integration RPC timeouts · email delivery blocklisted by a mail provider · e-invoice submission failures
 - **Platform:** GitLab runners hanging CI jobs · flaky end-to-end pipelines · a full AWS account migration cutover
+- **Follow-up:** RCA write-ups
 
 </details>
 
