@@ -42,23 +42,12 @@ I own and maintain the cloud infrastructure of **RONPOS** for Shell MY, Shell SG
 </picture>
 </div>
 
-Trusted with production incidents across every environment.
-
-<details>
-<summary><b>Incidents I've handled</b></summary>
-
-<br>
-
-- **Databases:** Aurora MySQL 5.7 → 8.0 upgrade regressions · connection exhaustion · deadlocks · long-running queries locking tables · tenant DB performance degradation · temp-table-full errors after a major upgrade
-- **Search and storage:** OpenSearch out of disk · JVM memory pressure · silent bulk-insert failures that went unnoticed for weeks · unbounded index retention
-- **Pipelines and queues:** Kinesis and SQS backlogs · delayed transaction processing · queue-worker out-of-memory · full disks · Lambda timeout and memory tuning
-- **MQTT and station fleet:** broker CPU exhaustion · fuel price updates not reaching stations · fleet-wide cloud disconnects traced to a customer's network path · stale Redis connections in the socket workers · socket.io 404s found across multiple environments
-- **Edge and network:** WAF Bot Control blocking legitimate traffic · gateway timeouts and 5xx on login and report pages · a security-hardening change that cut off internal connectivity
-- **Third parties:** payment-authorization service outages · integration RPC timeouts · email delivery blocklisted by a mail provider · e-invoice submission failures
-- **Platform:** GitLab runners hanging CI jobs · flaky end-to-end pipelines · a full AWS account migration cutover
-- **Follow-up:** RCA write-ups
-
-</details>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/incidents-dark.svg">
+  <img alt="Production incidents across every environment, resolved. Databases: Aurora MySQL 5.7 → 8.0 upgrade, Connection exhaustion, Deadlocks, Long-running queries, Tenant DB degradation, Temp table full. Search & Storage: OpenSearch out of disk, JVM memory pressure, Silent bulk-insert failures, Index retention. Pipelines & Queues: Kinesis & SQS backlogs, Delayed processing, Worker out-of-memory, Full disks, Lambda timeout & memory. MQTT & Station Fleet: Broker CPU exhaustion, Fuel prices not reaching stations, Fleet-wide disconnects, Stale Redis connections, socket.io 404s. Edge & Network: WAF Bot Control blocking traffic, Gateway timeouts & 5xx, Hardening change cutting connectivity. Third Parties: Payment-authorization outages, Integration RPC timeouts, Email blocklisting. Platform & Process: GitLab runners hanging jobs, Flaky E2E pipelines, AWS account migration cutover, RCA write-ups." src="assets/incidents-light.svg" width="900">
+</picture>
+</div>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
 

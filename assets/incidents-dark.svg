@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="772" viewBox="0 0 900 772" role="img" aria-label="Production incidents across every environment, resolved. Databases: Aurora MySQL 5.7 → 8.0 upgrade, Connection exhaustion, Deadlocks, Long-running queries, Tenant DB degradation, Temp table full. Search &amp; Storage: OpenSearch out of disk, JVM memory pressure, Silent bulk-insert failures, Index retention. Pipelines &amp; Queues: Kinesis &amp; SQS backlogs, Delayed processing, Worker out-of-memory, Full disks, Lambda timeout &amp; memory. MQTT &amp; Station Fleet: Broker CPU exhaustion, Fuel prices not reaching stations, Fleet-wide disconnects, Stale Redis connections, socket.io 404s. Edge &amp; Network: WAF Bot Control blocking traffic, Gateway timeouts &amp; 5xx, Hardening change cutting connectivity. Third Parties: Payment-authorization outages, Integration RPC timeouts, Email blocklisting. Platform &amp; Process: GitLab runners hanging jobs, Flaky E2E pipelines, AWS account migration cutover, RCA write-ups."><text x="18" y="34" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#F0F6FC">Production Incidents</text>
+<text x="18" y="56" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9DA7B3">Across every environment</text>
+<rect x="776" y="16" width="112" height="34" rx="17" fill="#56D364" fill-opacity="0.14" stroke="#56D364" stroke-opacity="0.6"/>
+<circle cx="798" cy="33" r="5" fill="#56D364"/>
+<text x="812" y="38" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#56D364">Resolved</text>
+<rect x="12" y="70" width="428" height="198" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="28" y="86" width="4" height="16" rx="2" fill="#58A6FF"/>
+<text x="40" y="99" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#58A6FF">DATABASES</text>
+<rect x="30" y="114" width="231.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="128" r="4" fill="#56D364"/>
+<text x="57" y="133" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Aurora MySQL 5.7 → 8.0 upgrade</text>
+<rect x="30" y="150" width="172.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="164" r="4" fill="#56D364"/>
+<text x="57" y="169" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Connection exhaustion</text>
+<rect x="210.5" y="150" width="94.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="225.5" cy="164" r="4" fill="#56D364"/>
+<text x="237.5" y="169" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Deadlocks</text>
+<rect x="30" y="186" width="166.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="200" r="4" fill="#56D364"/>
+<text x="57" y="205" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Long-running queries</text>
+<rect x="204.0" y="186" width="172.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="219.0" cy="200" r="4" fill="#56D364"/>
+<text x="231.0" y="205" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Tenant DB degradation</text>
+<rect x="30" y="222" width="133.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="236" r="4" fill="#56D364"/>
+<text x="57" y="241" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Temp table full</text>
+<rect x="460" y="70" width="428" height="198" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="476" y="86" width="4" height="16" rx="2" fill="#BC8CFF"/>
+<text x="488" y="99" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#BC8CFF">SEARCH &amp; STORAGE</text>
+<rect x="478" y="114" width="179.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="128" r="4" fill="#56D364"/>
+<text x="505" y="133" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">OpenSearch out of disk</text>
+<rect x="665.0" y="114" width="159.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="680.0" cy="128" r="4" fill="#56D364"/>
+<text x="692.0" y="133" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">JVM memory pressure</text>
+<rect x="478" y="150" width="211.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="164" r="4" fill="#56D364"/>
+<text x="505" y="169" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Silent bulk-insert failures</text>
+<rect x="697.5" y="150" width="133.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="712.5" cy="164" r="4" fill="#56D364"/>
+<text x="724.5" y="169" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Index retention</text>
+<rect x="12" y="282" width="428" height="198" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="28" y="298" width="4" height="16" rx="2" fill="#39C5BB"/>
+<text x="40" y="311" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#39C5BB">PIPELINES &amp; QUEUES</text>
+<rect x="30" y="326" width="179.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="340" r="4" fill="#56D364"/>
+<text x="57" y="345" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Kinesis &amp; SQS backlogs</text>
+<rect x="217.0" y="326" width="153.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="232.0" cy="340" r="4" fill="#56D364"/>
+<text x="244.0" y="345" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Delayed processing</text>
+<rect x="30" y="362" width="166.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="376" r="4" fill="#56D364"/>
+<text x="57" y="381" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Worker out-of-memory</text>
+<rect x="204.0" y="362" width="101.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="219.0" cy="376" r="4" fill="#56D364"/>
+<text x="231.0" y="381" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Full disks</text>
+<rect x="30" y="398" width="185.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="412" r="4" fill="#56D364"/>
+<text x="57" y="417" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Lambda timeout &amp; memory</text>
+<rect x="460" y="282" width="428" height="198" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="476" y="298" width="4" height="16" rx="2" fill="#F0883E"/>
+<text x="488" y="311" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#F0883E">MQTT &amp; STATION FLEET</text>
+<rect x="478" y="326" width="172.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="340" r="4" fill="#56D364"/>
+<text x="505" y="345" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Broker CPU exhaustion</text>
+<rect x="478" y="362" width="250.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="376" r="4" fill="#56D364"/>
+<text x="505" y="381" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Fuel prices not reaching stations</text>
+<rect x="478" y="398" width="179.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="412" r="4" fill="#56D364"/>
+<text x="505" y="417" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Fleet-wide disconnects</text>
+<rect x="665.0" y="398" width="185.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="680.0" cy="412" r="4" fill="#56D364"/>
+<text x="692.0" y="417" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Stale Redis connections</text>
+<rect x="478" y="434" width="127.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="448" r="4" fill="#56D364"/>
+<text x="505" y="453" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">socket.io 404s</text>
+<rect x="12" y="494" width="428" height="162" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="28" y="510" width="4" height="16" rx="2" fill="#56D364"/>
+<text x="40" y="523" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#56D364">EDGE &amp; NETWORK</text>
+<rect x="30" y="538" width="244.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="552" r="4" fill="#56D364"/>
+<text x="57" y="557" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">WAF Bot Control blocking traffic</text>
+<rect x="30" y="574" width="179.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="588" r="4" fill="#56D364"/>
+<text x="57" y="593" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Gateway timeouts &amp; 5xx</text>
+<rect x="30" y="610" width="276.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="624" r="4" fill="#56D364"/>
+<text x="57" y="629" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Hardening change cutting connectivity</text>
+<rect x="460" y="494" width="428" height="162" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="476" y="510" width="4" height="16" rx="2" fill="#F778BA"/>
+<text x="488" y="523" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#F778BA">THIRD PARTIES</text>
+<rect x="478" y="538" width="224.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="552" r="4" fill="#56D364"/>
+<text x="505" y="557" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Payment-authorization outages</text>
+<rect x="478" y="574" width="192.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="493" cy="588" r="4" fill="#56D364"/>
+<text x="505" y="593" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Integration RPC timeouts</text>
+<rect x="678.0" y="574" width="153.0" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="693.0" cy="588" r="4" fill="#56D364"/>
+<text x="705.0" y="593" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Email blocklisting</text>
+<rect x="12" y="670" width="876" height="90" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="28" y="686" width="4" height="16" rx="2" fill="#8E9BFF"/>
+<text x="40" y="699" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#8E9BFF">PLATFORM &amp; PROCESS</text>
+<rect x="30" y="714" width="211.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="45" cy="728" r="4" fill="#56D364"/>
+<text x="57" y="733" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">GitLab runners hanging jobs</text>
+<rect x="249.5" y="714" width="159.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="264.5" cy="728" r="4" fill="#56D364"/>
+<text x="276.5" y="733" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">Flaky E2E pipelines</text>
+<rect x="417.0" y="714" width="224.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="432.0" cy="728" r="4" fill="#56D364"/>
+<text x="444.0" y="733" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">AWS account migration cutover</text>
+<rect x="649.5" y="714" width="120.5" height="28" rx="14" fill="#56D364" fill-opacity="0.08" stroke="#56D364" stroke-opacity="0.35"/>
+<circle cx="664.5" cy="728" r="4" fill="#56D364"/>
+<text x="676.5" y="733" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#F0F6FC">RCA write-ups</text></svg>
