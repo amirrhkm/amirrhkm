@@ -29,7 +29,22 @@
 The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS), the MQTT pipeline from on-prem sites, and every third-party integration, from SFTP report hand-offs to forecourt sales files landing straight in the cloud.
 
 > [!NOTE]
-> I build and maintain the production pipelines. When something breaks, I'm usually the person the team turns to, and I've worked through database upgrades, silent data-path failures, gateway timeouts and full disks across every environment.
+> I build and maintain the production pipelines. When something breaks, I'm usually the person the team turns to, and I've worked through a long list of them across every environment.
+
+<details>
+<summary><b>Incidents I've worked through</b></summary>
+
+<br>
+
+- **Databases:** Aurora MySQL 5.7 → 8.0 upgrade regressions · connection exhaustion · deadlocks · long-running queries locking tables · tenant DB performance degradation · temp-table-full errors after a major upgrade
+- **Search and storage:** OpenSearch out of disk · JVM memory pressure · silent bulk-insert failures that went unnoticed for weeks · unbounded index retention
+- **Pipelines and queues:** Kinesis and SQS backlogs · delayed transaction processing · queue-worker out-of-memory · full disks · Lambda timeout and memory tuning
+- **MQTT and station fleet:** broker CPU exhaustion · fuel price updates not reaching stations · fleet-wide cloud disconnects traced to a customer's network path · stale Redis connections in the socket workers · socket.io 404s found across multiple environments
+- **Edge and network:** WAF Bot Control blocking legitimate traffic · gateway timeouts and 5xx on login and report pages · a security-hardening change that cut off internal connectivity
+- **Third parties:** payment-authorization service outages · integration RPC timeouts · email delivery blocklisted by a mail provider · e-invoice submission failures
+- **Platform:** GitLab runners hanging CI jobs · flaky end-to-end pipelines · a full AWS account migration cutover
+
+</details>
 
 ## 🛠️ Built end-to-end
 
