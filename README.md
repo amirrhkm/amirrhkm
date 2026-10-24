@@ -66,12 +66,19 @@
 
 ## Stack
 
+<details>
+<summary>Languages · Frameworks · CI/CD · Containers · Cloud & IaC · Network · Data · Observability · Security</summary>
+
+<br>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img alt="Tech stack map: languages, frameworks, CI/CD, containers and tools, cloud and IaC, network, data, observability, security" src="assets/stack-light.svg" width="900">
 </picture>
 </div>
+
+</details>
 
 ## Goals
 
