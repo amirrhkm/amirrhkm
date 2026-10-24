@@ -29,7 +29,7 @@
 The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS), the MQTT pipeline from on-prem sites, and every third-party integration, from SFTP report hand-offs to forecourt sales files landing straight in the cloud.
 
 > [!NOTE]
-> I build and maintain the production pipelines, and when production breaks I'm the one who resolves it, because I know every environment end to end. Seen and fixed: database upgrades, silent data-path failures, gateway timeouts, full disks.
+> I build and maintain the production pipelines. When something breaks, I'm usually the person the team turns to, and I've worked through database upgrades, silent data-path failures, gateway timeouts and full disks across every environment.
 
 ## 🛠️ Built end-to-end
 
