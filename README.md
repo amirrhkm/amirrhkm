@@ -41,7 +41,7 @@
 </div>
 
 <details>
-<summary><b>Production Incidents</b> · across every environment, all with a root cause and a fix</summary>
+<summary><b>Production Incidents</b> · across every environment</summary>
 
 <br>
 
