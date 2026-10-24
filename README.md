@@ -26,8 +26,6 @@
 
 ## Infrastructure
 
-I own and maintain the cloud infrastructure of **RONPOS** for Shell MY, Shell SG, BHP, XCel and FIVE, and of **Sentinel** for Petronas: how code ships, where it runs, and how it stays secure, observable and cost-efficient.
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/infra-loop-dark.svg">
