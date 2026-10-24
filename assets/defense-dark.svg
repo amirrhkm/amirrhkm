@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Defense in depth. Cloud foundation at the core: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cost governance for stale resources and technical debt. Wrapped by security and compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001.">
+
+<circle cx="200" cy="175" r="127" fill="none" stroke="#FF7B72" stroke-opacity="0.13" stroke-width="54"/>
+<circle cx="200" cy="175" r="154" fill="none" stroke="#FF7B72" stroke-opacity="0.55" stroke-width="1.5"/>
+<circle cx="200" cy="175" r="100" fill="none" stroke="#FF7B72" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 5"/>
+<circle cx="200" cy="175" r="86" fill="#56D364" fill-opacity="0.14" stroke="#56D364" stroke-width="2"/>
+<text x="200" y="171" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5" fill="#56D364">CLOUD</text>
+<text x="200" y="191" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5" fill="#56D364">FOUNDATION</text>
+<circle cx="297.3" cy="256.6" r="22" fill="#161B22" stroke="#FF7B72" stroke-width="2"/>
+<circle cx="297.3" cy="256.6" r="17" fill="none" stroke="#FF7B72" stroke-opacity="0.5" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="297.3" y="260.6" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#FF7B72">PCI</text>
+<circle cx="200.0" cy="302.0" r="22" fill="#161B22" stroke="#FF7B72" stroke-width="2"/>
+<circle cx="200.0" cy="302.0" r="17" fill="none" stroke="#FF7B72" stroke-opacity="0.5" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="200.0" y="306.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#FF7B72">SOC 2</text>
+<circle cx="102.7" cy="256.6" r="22" fill="#161B22" stroke="#FF7B72" stroke-width="2"/>
+<circle cx="102.7" cy="256.6" r="17" fill="none" stroke="#FF7B72" stroke-opacity="0.5" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="102.7" y="260.6" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#FF7B72">ISO</text>
+<rect x="400" y="14" width="484" height="158" rx="12" fill="#FF7B72" fill-opacity="0.07" stroke="#FF7B72" stroke-opacity="0.4"/>
+<text x="422" y="42" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#FF7B72">SECURITY &amp; COMPLIANCE</text>
+<path d="M315.10108895365454,121.32748075893117 L386,121.32748075893117 L386,93.0 L400,93.0" fill="none" stroke="#FF7B72" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="315.10108895365454" cy="121.32748075893117" r="4" fill="#FF7B72"/>
+<circle cx="428" cy="66" r="4" fill="#FF7B72"/>
+<text x="444" y="70" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">Secrets &amp; AWS Access</text>
+<circle cx="428" cy="92" r="4" fill="#FF7B72"/>
+<text x="444" y="96" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">Least-Privilege Roles for TEAM</text>
+<circle cx="428" cy="118" r="4" fill="#FF7B72"/>
+<text x="444" y="122" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">WAF &amp; AWS Security Services</text>
+<circle cx="428" cy="144" r="4" fill="#FF7B72"/>
+<text x="444" y="148" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">Audit Evidence: PCI-DSS · SOC 2 · ISO 27001</text>
+<rect x="400" y="186" width="484" height="150" rx="12" fill="#56D364" fill-opacity="0.07" stroke="#56D364" stroke-opacity="0.4"/>
+<text x="422" y="214" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#56D364">CLOUD FOUNDATION</text>
+<path d="M274.47818472546174,218.0 L386,218.0 L386,261.0 L400,261.0" fill="none" stroke="#56D364" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="274.47818472546174" cy="218.0" r="4" fill="#56D364"/>
+<circle cx="428" cy="238" r="4" fill="#56D364"/>
+<text x="444" y="242" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">AWS, Every Environment</text>
+<circle cx="428" cy="264" r="4" fill="#56D364"/>
+<text x="444" y="268" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">New Environments &amp; Service Onboarding (IaC)</text>
+<circle cx="428" cy="290" r="4" fill="#56D364"/>
+<text x="444" y="294" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">Backup &amp; Restore: Databases and GitLab</text>
+<circle cx="428" cy="316" r="4" fill="#56D364"/>
+<text x="444" y="320" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#F0F6FC">Cost Governance: Stale Resources &amp; Technical Debt</text>
+</svg>

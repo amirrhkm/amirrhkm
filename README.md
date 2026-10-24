@@ -5,7 +5,7 @@
   <img alt="Amir Nurhakim, DevOps Engineer at Silentmode. I run the cloud behind RONPOS and Sentinel." src="assets/banner-light.svg" width="900">
 </picture>
 
-<sub>**DevOps Engineer** @ [Silentmode](https://www.silentmode.my/) &nbsp;·&nbsp; **CS (Multimedia) Graduate** @ [UPM](https://www.upm.edu.my/)</sub>
+<sub>**DevOps Engineer** (*previously Software Engineer*) @ [Silentmode](https://www.silentmode.my/) &nbsp;·&nbsp; **CS (Multimedia) Graduate** @ [UPM](https://www.upm.edu.my/)</sub>
 
 <br>
 
@@ -36,7 +36,10 @@ I own and maintain the cloud infrastructure of **RONPOS** for Shell MY, Shell SG
 </div>
 
 <div align="center">
-<img alt="Terminal output of tree on infra: security-compliance contains secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. cloud-foundation contains AWS in every environment, environment and service onboarding as infrastructure as code, backup and restore for databases and GitLab, and cost governance for stale resources and technical debt." src="assets/infra-tree.svg" width="900">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/defense-dark.svg">
+  <img alt="Defense in depth. Cloud foundation at the core: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cost governance for stale resources and technical debt. Wrapped by security and compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001." src="assets/defense-light.svg" width="900">
+</picture>
 </div>
 
 Trusted with production incidents across every environment.
