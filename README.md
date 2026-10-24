@@ -24,7 +24,7 @@
 
 </div>
 
-## ☁️ What I run at Silentmode
+## Infrastructure
 
 | Product | Clients |
 |---|---|
@@ -37,7 +37,7 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 > I build and maintain the production pipelines. When something breaks, I'm usually the person the team turns to, and I've worked through a long list of them across every environment.
 
 <details>
-<summary><b>Incidents I've worked through at Silentmode</b></summary>
+<summary><b>Incidents I've worked through</b></summary>
 
 <br>
 
@@ -53,7 +53,7 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 
 <div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
 
-## 🛠️ Some of what I've built at Silentmode
+## Projects
 
 <div align="center">
 <img alt="Terminal output of kubectl get projects: cryo (EC2, ECS, RDS and EventBridge scheduler, ~50% off non-prod cost), qualys-scanpipe (SQS FIFO and Step Functions, zero manual scans), kpmg-integration (EventBridge, SQS, Fargate, S3, SFTP, hands-off daily delivery), team fork (Amplify app for short-lived, audited AWS access). A selection, not the full list." src="assets/projects-terminal.svg" width="900">
@@ -63,7 +63,7 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 
 <div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
 
-## 🧰 Stack
+## Stack
 
 <div align="center">
 <picture>
