@@ -18,6 +18,8 @@
 
 The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS), the MQTT pipeline from on-prem sites, and every third-party integration, from SFTP report hand-offs to forecourt sales files landing straight in the cloud.
 
+I build and maintain the production pipelines, and when production breaks I'm the one who resolves it, because I know every environment end to end.
+
 ## Built end-to-end
 
 - **Cryo**: one switch for non-prod. On-demand or scheduled on/off for EC2, ECS, RDS and EventBridge. **~50% off non-prod cloud cost.**
