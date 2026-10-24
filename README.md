@@ -2,28 +2,33 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Amir Nurhakim, DevOps Engineer @ Silentmode. I run the cloud behind RONPOS and Sentinel." src="assets/banner-light.svg" width="900">
+  <img alt="Amir Nurhakim, DevOps Engineer at Silentmode. I run the cloud behind RONPOS and Sentinel." src="assets/banner-light.svg" width="900">
 </picture>
 
 <sub>**DevOps Engineer** @ [Silentmode](https://www.silentmode.my/) &nbsp;·&nbsp; **CS (Multimedia) Graduate** @ [UPM](https://www.upm.edu.my/)</sub>
 
-![Production environments](https://img.shields.io/badge/PRODUCTION_ENVS-5-0A66C2?style=for-the-badge)
-![Stations](https://img.shields.io/badge/STATIONS-2%2C500%2B-7B42BC?style=for-the-badge)
-![UAT cost saved](https://img.shields.io/badge/UAT_COST_SAVED-~50%25-2EA043?style=for-the-badge)
+<br>
 
-<sub>Shell MY · Shell SG · BHP · Petronas · Xcel and Five (in pilot)</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="5 production environments, 2,500+ stations served, about 50% non-prod cost saved" src="assets/stats-light.svg" width="900">
+</picture>
+
+<sub>Shell MY · Shell SG · BHP · Petronas · XCel · FIVE</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mrnrhkm-0A66C2?style=flat&logo=linkedin&logoSize=auto)](https://www.linkedin.com/in/mrnrhkm/)
 [![GitHub](https://img.shields.io/badge/GitHub-amirrhkm-181717?style=flat&logo=github)](https://github.com/amirrhkm)
 ![Timezone](https://img.shields.io/badge/Timezone-MYT-FF6B6B?style=flat)
 
+<img src="assets/divider.svg" alt="" width="900">
+
 </div>
 
-## ☁️ What I run
+## ☁️ What I run at Silentmode
 
 | Product | Clients |
 |---|---|
-| **RONPOS** | Shell MY · Shell SG · BHP · Xcel · Five |
+| **RONPOS** | Shell MY · Shell SG · BHP · XCel · FIVE |
 | **Sentinel** | Petronas |
 
 The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS), the MQTT pipeline from on-prem sites, and every third-party integration, from SFTP report hand-offs to forecourt sales files landing straight in the cloud.
@@ -32,7 +37,7 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 > I build and maintain the production pipelines. When something breaks, I'm usually the person the team turns to, and I've worked through a long list of them across every environment.
 
 <details>
-<summary><b>Incidents I've worked through</b></summary>
+<summary><b>Incidents I've worked through at Silentmode</b></summary>
 
 <br>
 
@@ -46,7 +51,9 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 
 </details>
 
-## 🛠️ Built end-to-end
+<div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
+
+## 🛠️ Built end-to-end at Silentmode
 
 | Project | What it does | Result |
 |---|---|---|
@@ -55,7 +62,21 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 | **KPMG integration** | EventBridge, a Lambda producer, SQS, auto-scaling ECS Fargate workers, S3, then least-privilege SFTP for the third party to collect. | Hands-off daily delivery |
 | **[TEAM (fork)](https://github.com/amirrhkm/team-platform)** | Short-lived, audited AWS access for engineers, extended with cross-region IDC and app support. | Time-boxed access, full audit trail |
 
+<div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
+
 ## 🧰 Stack
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Tech stack map: languages, frameworks, CI/CD, containers and tools, cloud and IaC, network, data, observability, security" src="assets/stack-light.svg" width="900">
+</picture>
+</div>
+
+<details>
+<summary>Same stack, with logos</summary>
+
+<br>
 
 | | |
 |---|---|
@@ -69,6 +90,8 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 | **Network Protocols** | ![HTTP](https://img.shields.io/badge/HTTP-005C84?style=flat) ![TLS](https://img.shields.io/badge/TLS-721412?style=flat) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat) ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat) ![SFTP](https://img.shields.io/badge/SFTP-0078D4?style=flat) ![gRPC](https://img.shields.io/badge/gRPC-EE0000?style=flat&logo=gRPC&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) ![ElastiCache](https://img.shields.io/badge/ElastiCache-C925D1?style=flat&logo=redis&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white) |
 | **Security** | ![GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=flat&logo=amazon-aws&logoColor=white) ![WAF](https://img.shields.io/badge/WAF-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![Qualys](https://img.shields.io/badge/Qualys-660066?style=flat) |
+
+</details>
 
 <div align="center">
 <sub>Jack of all trades, master of none, but often times better than master of one.</sub>

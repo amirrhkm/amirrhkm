@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="498" viewBox="0 0 900 498" role="img" aria-label="Tech stack map, grouped by layer">
+<rect width="900" height="498" rx="14" fill="#FFFFFF" stroke="#D0D7DE"/>
+<rect x="28" y="28" width="4" height="34" rx="2" fill="#0A4C94"/>
+<text x="44" y="50" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Languages</text>
+<rect x="204" y="31" width="94" height="28" rx="14" fill="#0A4C94" fill-opacity="0.12" stroke="#0A4C94" stroke-opacity="0.55"/>
+<text x="251.0" y="50" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0A4C94">TypeScript</text>
+<rect x="304" y="31" width="94" height="28" rx="14" fill="#0A4C94" fill-opacity="0.12" stroke="#0A4C94" stroke-opacity="0.55"/>
+<text x="351.0" y="50" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0A4C94">JavaScript</text>
+<rect x="404" y="31" width="36" height="28" rx="14" fill="#0A4C94" fill-opacity="0.12" stroke="#0A4C94" stroke-opacity="0.55"/>
+<text x="422.0" y="50" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0A4C94">Go</text>
+<rect x="446" y="31" width="43" height="28" rx="14" fill="#0A4C94" fill-opacity="0.12" stroke="#0A4C94" stroke-opacity="0.55"/>
+<text x="467.5" y="50" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0A4C94">PHP</text>
+<rect x="495" y="31" width="65" height="28" rx="14" fill="#0A4C94" fill-opacity="0.12" stroke="#0A4C94" stroke-opacity="0.55"/>
+<text x="527.5" y="50" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0A4C94">Python</text>
+<rect x="28" y="78" width="4" height="34" rx="2" fill="#5B2F94"/>
+<text x="44" y="100" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Frameworks</text>
+<rect x="204" y="81" width="72" height="28" rx="14" fill="#5B2F94" fill-opacity="0.12" stroke="#5B2F94" stroke-opacity="0.55"/>
+<text x="240.0" y="100" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#5B2F94">Laravel</text>
+<rect x="282" y="81" width="65" height="28" rx="14" fill="#5B2F94" fill-opacity="0.12" stroke="#5B2F94" stroke-opacity="0.55"/>
+<text x="314.5" y="100" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#5B2F94">NestJS</text>
+<rect x="353" y="81" width="65" height="28" rx="14" fill="#5B2F94" fill-opacity="0.12" stroke="#5B2F94" stroke-opacity="0.55"/>
+<text x="385.5" y="100" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#5B2F94">Vue.js</text>
+<rect x="424" y="81" width="72" height="28" rx="14" fill="#5B2F94" fill-opacity="0.12" stroke="#5B2F94" stroke-opacity="0.55"/>
+<text x="460.0" y="100" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#5B2F94">Next.js</text>
+<rect x="28" y="128" width="4" height="34" rx="2" fill="#0B6B6B"/>
+<text x="44" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">CI/CD</text>
+<rect x="204" y="131" width="86" height="28" rx="14" fill="#0B6B6B" fill-opacity="0.12" stroke="#0B6B6B" stroke-opacity="0.55"/>
+<text x="247.0" y="150" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0B6B6B">GitLab CI</text>
+<rect x="296" y="131" width="122" height="28" rx="14" fill="#0B6B6B" fill-opacity="0.12" stroke="#0B6B6B" stroke-opacity="0.55"/>
+<text x="357.0" y="150" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0B6B6B">GitHub Actions</text>
+<rect x="28" y="178" width="4" height="34" rx="2" fill="#A85408"/>
+<text x="44" y="200" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Containers &amp; tools</text>
+<rect x="204" y="181" width="65" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="236.5" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">Docker</text>
+<rect x="275" y="181" width="72" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="311.0" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">kubectl</text>
+<rect x="353" y="181" width="50" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="378.0" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">Helm</text>
+<rect x="409" y="181" width="50" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="434.0" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">kops</text>
+<rect x="465" y="181" width="72" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="501.0" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">Ansible</text>
+<rect x="543" y="181" width="72" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="579.0" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">systemd</text>
+<rect x="621" y="181" width="86" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="664.0" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">steampipe</text>
+<rect x="713" y="181" width="86" height="28" rx="14" fill="#A85408" fill-opacity="0.12" stroke="#A85408" stroke-opacity="0.55"/>
+<text x="756.0" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A85408">TablePlus</text>
+<rect x="28" y="228" width="4" height="34" rx="2" fill="#1A7F37"/>
+<text x="44" y="250" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Cloud &amp; IaC</text>
+<rect x="204" y="231" width="43" height="28" rx="14" fill="#1A7F37" fill-opacity="0.12" stroke="#1A7F37" stroke-opacity="0.55"/>
+<text x="225.5" y="250" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#1A7F37">AWS</text>
+<rect x="253" y="231" width="72" height="28" rx="14" fill="#1A7F37" fill-opacity="0.12" stroke="#1A7F37" stroke-opacity="0.55"/>
+<text x="289.0" y="250" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#1A7F37">AWS CDK</text>
+<rect x="331" y="231" width="94" height="28" rx="14" fill="#1A7F37" fill-opacity="0.12" stroke="#1A7F37" stroke-opacity="0.55"/>
+<text x="378.0" y="250" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#1A7F37">Serverless</text>
+<rect x="431" y="231" width="86" height="28" rx="14" fill="#1A7F37" fill-opacity="0.12" stroke="#1A7F37" stroke-opacity="0.55"/>
+<text x="474.0" y="250" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#1A7F37">Terraform</text>
+<rect x="28" y="278" width="4" height="34" rx="2" fill="#A32A72"/>
+<text x="44" y="300" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Network</text>
+<rect x="204" y="281" width="50" height="28" rx="14" fill="#A32A72" fill-opacity="0.12" stroke="#A32A72" stroke-opacity="0.55"/>
+<text x="229.0" y="300" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A32A72">HTTP</text>
+<rect x="260" y="281" width="43" height="28" rx="14" fill="#A32A72" fill-opacity="0.12" stroke="#A32A72" stroke-opacity="0.55"/>
+<text x="281.5" y="300" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A32A72">TLS</text>
+<rect x="309" y="281" width="50" height="28" rx="14" fill="#A32A72" fill-opacity="0.12" stroke="#A32A72" stroke-opacity="0.55"/>
+<text x="334.0" y="300" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A32A72">MQTT</text>
+<rect x="365" y="281" width="43" height="28" rx="14" fill="#A32A72" fill-opacity="0.12" stroke="#A32A72" stroke-opacity="0.55"/>
+<text x="386.5" y="300" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A32A72">SSH</text>
+<rect x="414" y="281" width="50" height="28" rx="14" fill="#A32A72" fill-opacity="0.12" stroke="#A32A72" stroke-opacity="0.55"/>
+<text x="439.0" y="300" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A32A72">SFTP</text>
+<rect x="470" y="281" width="50" height="28" rx="14" fill="#A32A72" fill-opacity="0.12" stroke="#A32A72" stroke-opacity="0.55"/>
+<text x="495.0" y="300" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A32A72">gRPC</text>
+<rect x="28" y="328" width="4" height="34" rx="2" fill="#3947A8"/>
+<text x="44" y="350" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Data</text>
+<rect x="204" y="331" width="58" height="28" rx="14" fill="#3947A8" fill-opacity="0.12" stroke="#3947A8" stroke-opacity="0.55"/>
+<text x="233.0" y="350" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3947A8">MySQL</text>
+<rect x="268" y="331" width="94" height="28" rx="14" fill="#3947A8" fill-opacity="0.12" stroke="#3947A8" stroke-opacity="0.55"/>
+<text x="315.0" y="350" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3947A8">PostgreSQL</text>
+<rect x="368" y="331" width="79" height="28" rx="14" fill="#3947A8" fill-opacity="0.12" stroke="#3947A8" stroke-opacity="0.55"/>
+<text x="407.5" y="350" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3947A8">DynamoDB</text>
+<rect x="453" y="331" width="101" height="28" rx="14" fill="#3947A8" fill-opacity="0.12" stroke="#3947A8" stroke-opacity="0.55"/>
+<text x="503.5" y="350" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3947A8">ElastiCache</text>
+<rect x="560" y="331" width="94" height="28" rx="14" fill="#3947A8" fill-opacity="0.12" stroke="#3947A8" stroke-opacity="0.55"/>
+<text x="607.0" y="350" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3947A8">OpenSearch</text>
+<rect x="28" y="378" width="4" height="34" rx="2" fill="#B02A3F"/>
+<text x="44" y="400" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Observability</text>
+<rect x="204" y="381" width="94" height="28" rx="14" fill="#B02A3F" fill-opacity="0.12" stroke="#B02A3F" stroke-opacity="0.55"/>
+<text x="251.0" y="400" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B02A3F">CloudWatch</text>
+<rect x="304" y="381" width="65" height="28" rx="14" fill="#B02A3F" fill-opacity="0.12" stroke="#B02A3F" stroke-opacity="0.55"/>
+<text x="336.5" y="400" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B02A3F">Sentry</text>
+<rect x="375" y="381" width="115" height="28" rx="14" fill="#B02A3F" fill-opacity="0.12" stroke="#B02A3F" stroke-opacity="0.55"/>
+<text x="432.5" y="400" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B02A3F">OpenTelemetry</text>
+<rect x="496" y="381" width="101" height="28" rx="14" fill="#B02A3F" fill-opacity="0.12" stroke="#B02A3F" stroke-opacity="0.55"/>
+<text x="546.5" y="400" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B02A3F">DataPrepper</text>
+<rect x="603" y="381" width="94" height="28" rx="14" fill="#B02A3F" fill-opacity="0.12" stroke="#B02A3F" stroke-opacity="0.55"/>
+<text x="650.0" y="400" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B02A3F">Prometheus</text>
+<rect x="703" y="381" width="72" height="28" rx="14" fill="#B02A3F" fill-opacity="0.12" stroke="#B02A3F" stroke-opacity="0.55"/>
+<text x="739.0" y="400" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B02A3F">Grafana</text>
+<rect x="781" y="381" width="72" height="28" rx="14" fill="#B02A3F" fill-opacity="0.12" stroke="#B02A3F" stroke-opacity="0.55"/>
+<text x="817.0" y="400" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#B02A3F">rsyslog</text>
+<rect x="28" y="428" width="4" height="34" rx="2" fill="#424A53"/>
+<text x="44" y="450" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Security</text>
+<rect x="204" y="431" width="86" height="28" rx="14" fill="#424A53" fill-opacity="0.12" stroke="#424A53" stroke-opacity="0.55"/>
+<text x="247.0" y="450" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#424A53">GuardDuty</text>
+<rect x="296" y="431" width="43" height="28" rx="14" fill="#424A53" fill-opacity="0.12" stroke="#424A53" stroke-opacity="0.55"/>
+<text x="317.5" y="450" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#424A53">WAF</text>
+<rect x="345" y="431" width="86" height="28" rx="14" fill="#424A53" fill-opacity="0.12" stroke="#424A53" stroke-opacity="0.55"/>
+<text x="388.0" y="450" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#424A53">SonarQube</text>
+<rect x="437" y="431" width="65" height="28" rx="14" fill="#424A53" fill-opacity="0.12" stroke="#424A53" stroke-opacity="0.55"/>
+<text x="469.5" y="450" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#424A53">Qualys</text>
+</svg>
