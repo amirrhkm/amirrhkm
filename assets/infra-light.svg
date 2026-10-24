@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="516" viewBox="0 0 900 516" role="img" aria-label="Infrastructure map. Security and compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. Delivery loop: GitLab access, pipelines and runners; SonarQube set up before a service deploys; Qualys network scans in the pipeline. Operations loop: monitoring and alerts with CloudWatch and Sentry; Mailgun email delivery; MQTT and third-party integrations. Cloud foundation: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cloud cost governance including stale resources and technical debt.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="516" viewBox="0 0 900 516" role="img" aria-label="Infrastructure map. Security and Compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. Delivery: GitLab access, pipelines and runners; SonarQube service onboard; Qualys public network security. Operations: monitoring and alerts with CloudWatch and Sentry; Mailgun email delivery, domains and credentials; on-prem and third-party integrations. Cloud Foundation: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cost governance including stale resources and technical debt.">
 <rect x="12" y="12" width="876" height="120" rx="12" fill="#B02A3F" fill-opacity="0.07" stroke="#B02A3F" stroke-opacity="0.35"/>
 <rect x="12" y="26" width="4" height="92" rx="2" fill="#B02A3F"/>
 <text x="40" y="38" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#B02A3F">SECURITY &amp; COMPLIANCE</text>
 <rect x="40" y="52" width="158.0" height="28" rx="14" fill="#FFFFFF" stroke="#B02A3F" stroke-opacity="0.55"/>
-<text x="119.0" y="71" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Secrets &amp; AWS access</text>
+<text x="119.0" y="71" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Secrets &amp; AWS Access</text>
 <rect x="206.0" y="52" width="225.0" height="28" rx="14" fill="#FFFFFF" stroke="#B02A3F" stroke-opacity="0.55"/>
-<text x="318.5" y="71" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Least-privilege roles for TEAM</text>
+<text x="318.5" y="71" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Least-Privilege Roles for TEAM</text>
 <rect x="439.0" y="52" width="204.9" height="28" rx="14" fill="#FFFFFF" stroke="#B02A3F" stroke-opacity="0.55"/>
-<text x="541.45" y="71" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">WAF &amp; AWS security services</text>
+<text x="541.45" y="71" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">WAF &amp; AWS Security Services</text>
 <rect x="40" y="88" width="312.1" height="28" rx="14" fill="#FFFFFF" stroke="#B02A3F" stroke-opacity="0.55"/>
-<text x="196.05" y="107" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Audit evidence: PCI-DSS · SOC 2 · ISO 27001</text>
+<text x="196.05" y="107" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Audit Evidence: PCI-DSS · SOC 2 · ISO 27001</text>
 <defs><linearGradient id="lp" x1="-220" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B6B6B"/><stop offset="1" stop-color="#A32A72"/></linearGradient></defs>
 <g transform="translate(450,268.0) scale(0.8)"><path d="M0,0 C-70,-90 -220,-90 -220,0 C-220,90 -70,90 0,0 C70,-90 220,-90 220,0 C220,90 70,90 0,0 Z" fill="none" stroke="url(#lp)" stroke-width="9" stroke-linejoin="round" stroke-opacity="0.9"/></g>
 <circle cx="341.0" cy="214.0" r="13" fill="#0B6B6B" stroke="#FFFFFF" stroke-width="3"/>
@@ -28,37 +28,37 @@
 <circle cx="43" cy="203" r="11" fill="#0B6B6B"/>
 <text x="43" y="207.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">1</text>
 <text x="64" y="202" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">GitLab</text>
-<text x="64" y="221" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">access · pipelines · runners</text>
+<text x="64" y="221" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">Access · Pipelines · Runners</text>
 <circle cx="43" cy="261" r="11" fill="#0B6B6B"/>
 <text x="43" y="265.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">2</text>
 <text x="64" y="260" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">SonarQube</text>
-<text x="64" y="279" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">set up before a service deploys</text>
+<text x="64" y="279" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">Service Onboard</text>
 <circle cx="43" cy="319" r="11" fill="#0B6B6B"/>
 <text x="43" y="323.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">3</text>
 <text x="64" y="318" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Qualys</text>
-<text x="64" y="337" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">network scans in the pipeline</text>
+<text x="64" y="337" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">Public Network Security</text>
 <text x="646" y="168" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#A32A72">OPERATIONS</text>
 <circle cx="657" cy="203" r="11" fill="#A32A72"/>
 <text x="657" y="207.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">1</text>
-<text x="678" y="202" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Monitoring &amp; alerts</text>
+<text x="678" y="202" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Monitoring &amp; Alerts</text>
 <text x="678" y="221" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">CloudWatch · Sentry</text>
 <circle cx="657" cy="261" r="11" fill="#A32A72"/>
 <text x="657" y="265.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">2</text>
-<text x="678" y="260" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Email delivery</text>
-<text x="678" y="279" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">Mailgun · domains · credentials</text>
+<text x="678" y="260" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Email Delivery</text>
+<text x="678" y="279" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">Mailgun · Domains · Credentials</text>
 <circle cx="657" cy="319" r="11" fill="#A32A72"/>
 <text x="657" y="323.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">3</text>
-<text x="678" y="318" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Fleet &amp; integrations</text>
-<text x="678" y="337" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">MQTT · SFTP · third parties</text>
+<text x="678" y="318" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0D1117">Integrations</text>
+<text x="678" y="337" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#57606A">On-Prem · Third Parties</text>
 <rect x="12" y="384" width="876" height="120" rx="12" fill="#1A7F37" fill-opacity="0.07" stroke="#1A7F37" stroke-opacity="0.35"/>
 <rect x="12" y="398" width="4" height="92" rx="2" fill="#1A7F37"/>
 <text x="40" y="410" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#1A7F37">CLOUD FOUNDATION</text>
 <rect x="40" y="424" width="171.4" height="28" rx="14" fill="#FFFFFF" stroke="#1A7F37" stroke-opacity="0.55"/>
-<text x="125.7" y="443" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">AWS, every environment</text>
+<text x="125.7" y="443" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">AWS, Every Environment</text>
 <rect x="219.4" y="424" width="312.1" height="28" rx="14" fill="#FFFFFF" stroke="#1A7F37" stroke-opacity="0.55"/>
-<text x="375.45000000000005" y="443" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">New environments &amp; service onboarding (IaC)</text>
+<text x="375.45000000000005" y="443" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">New Environments &amp; Service Onboarding (IaC)</text>
 <rect x="539.5" y="424" width="278.6" height="28" rx="14" fill="#FFFFFF" stroke="#1A7F37" stroke-opacity="0.55"/>
-<text x="678.8" y="443" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Backup &amp; restore: databases and GitLab</text>
+<text x="678.8" y="443" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Backup &amp; Restore: Databases and GitLab</text>
 <rect x="40" y="460" width="352.3" height="28" rx="14" fill="#FFFFFF" stroke="#1A7F37" stroke-opacity="0.55"/>
-<text x="216.15" y="479" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Cost governance: stale resources &amp; technical debt</text>
+<text x="216.15" y="479" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#0D1117">Cost Governance: Stale Resources &amp; Technical Debt</text>
 </svg>

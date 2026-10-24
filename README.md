@@ -26,20 +26,19 @@
 
 ## Infrastructure
 
-The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS), the MQTT pipeline from on-prem sites, and every third-party integration, from SFTP report hand-offs to forecourt sales files landing straight in the cloud.
+I own the cloud infrastructure behind both products, end to end: how code ships, where it runs, and how it stays secure, observable and cost-efficient.
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/infra-dark.svg">
-  <img alt="Infrastructure map. Security and compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. Delivery: GitLab access, pipelines and runners; SonarQube set up before a service deploys; Qualys network scans in the pipeline. Operations: monitoring and alerts with CloudWatch and Sentry; Mailgun email delivery; MQTT and third-party integrations. Cloud foundation: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cost governance including stale resources and technical debt." src="assets/infra-light.svg" width="900">
+  <img alt="Infrastructure map. Security and Compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. Delivery: GitLab access, pipelines and runners; SonarQube service onboard; Qualys public network security. Operations: monitoring and alerts with CloudWatch and Sentry; Mailgun email delivery, domains and credentials; on-prem and third-party integrations. Cloud Foundation: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cost governance including stale resources and technical debt." src="assets/infra-light.svg" width="900">
 </picture>
 </div>
 
-> [!NOTE]
-> I build and maintain the production pipelines. When something breaks, I'm usually the person the team turns to, and I've worked through a long list of them across every environment.
+Trusted with production incidents across every environment.
 
 <details>
-<summary><b>Incidents I've worked through</b></summary>
+<summary><b>Incidents I've handled</b></summary>
 
 <br>
 
