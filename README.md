@@ -56,7 +56,7 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 ## 🛠️ Some of what I've built at Silentmode
 
 <div align="center">
-<img alt="Terminal output of kubectl get projects: cryo (EC2, ECS, RDS and EventBridge scheduler, ~50% off non-prod cost), qualys-scanpipe (SQS FIFO and Step Functions, zero manual scans), kpmg-integration (EventBridge, SQS, Fargate, S3, SFTP, hands-off daily delivery), team fork (short-lived audited AWS access). A selection, not the full list." src="assets/projects-terminal.svg" width="900">
+<img alt="Terminal output of kubectl get projects: cryo (EC2, ECS, RDS and EventBridge scheduler, ~50% off non-prod cost), qualys-scanpipe (SQS FIFO and Step Functions, zero manual scans), kpmg-integration (EventBridge, SQS, Fargate, S3, SFTP, hands-off daily delivery), team fork (Amplify app for short-lived, audited AWS access). A selection, not the full list." src="assets/projects-terminal.svg" width="900">
 
 <sub>Source: [qualys-scanpipe](https://github.com/amirrhkm/qualys-scanpipe) · [team-platform](https://github.com/amirrhkm/team-platform)</sub>
 </div>
