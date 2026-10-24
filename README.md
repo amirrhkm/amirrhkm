@@ -84,9 +84,7 @@
 
 - [ ] **AWS Certified Solutions Architect – Associate** (SAA-C03)
 
-<div align="center">
-<img src="assets/lap.svg" width="720" alt="A car lapping a circuit, with sector times appearing">
-</div>
+<div align="center"><img src="assets/divider-race.svg" alt="" width="900"></div>
 
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTN1bGtyOHB5dWtueHk5dG00Nmxtd2p3MjJ4ZXpxdmdoZzNwbWFiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RIqAM7VavhVQ6z06ZI/giphy.gif" width="380" alt="Lando Norris celebrating">
