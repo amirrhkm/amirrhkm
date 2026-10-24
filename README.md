@@ -55,14 +55,11 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 
 ## 🛠️ Some of what I've built at Silentmode
 
-<sub>A selection, not the full list.</sub>
+<div align="center">
+<img alt="Terminal output of kubectl get projects: cryo (EC2, ECS, RDS and EventBridge scheduler, ~50% off non-prod cost), qualys-scanpipe (SQS FIFO and Step Functions, zero manual scans), kpmg-integration (EventBridge, SQS, Fargate, S3, SFTP, hands-off daily delivery), team fork (short-lived audited AWS access). A selection, not the full list." src="assets/projects-terminal.svg" width="900">
 
-| Project | What it does | Result |
-|---|---|---|
-| **Cryo** | One switch for non-prod. On-demand or scheduled on/off for EC2, ECS, RDS and EventBridge across 3 UAT environments. | **~50% off** non-prod cloud cost |
-| **[Qualys scan automation](https://github.com/amirrhkm/qualys-scanpipe)** | Network scans run inside the production pipeline, driven by SQS FIFO and a Step Functions state machine, with status emails, ASV report and attestation, and remediation-SLA tracking. | **Zero** manual scans |
-| **KPMG integration** | EventBridge, a Lambda producer, SQS, auto-scaling ECS Fargate workers, S3, then least-privilege SFTP for the third party to collect. | Hands-off daily delivery |
-| **[TEAM (fork)](https://github.com/amirrhkm/team-platform)** | Short-lived, audited AWS access for engineers, extended with cross-region IDC and app support. | Time-boxed access, full audit trail |
+<sub>Source: [qualys-scanpipe](https://github.com/amirrhkm/qualys-scanpipe) · [team-platform](https://github.com/amirrhkm/team-platform)</sub>
+</div>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
 

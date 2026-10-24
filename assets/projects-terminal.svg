@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="324" viewBox="0 0 900 324" role="img" aria-label="Terminal output of kubectl get projects in namespace silentmode: cryo, qualys-scanpipe, kpmg-integration and team fork, all running. A selection, not the full list.">
+<rect x="0.5" y="0.5" width="899" height="323" rx="12" fill="#0D1117" stroke="#30363D"/>
+<path d="M0.5 12.5 a12 12 0 0 1 12 -12 H887.5 a12 12 0 0 1 12 12 V40 H0.5 Z" fill="#161B22"/>
+<circle cx="24" cy="21" r="6" fill="#FF5F57"/><circle cx="46" cy="21" r="6" fill="#FEBC2E"/><circle cx="68" cy="21" r="6" fill="#28C840"/>
+<text x="450.0" y="26" text-anchor="middle" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#9DA7B3">amir@silentmode: ~</text>
+<text x="36" y="78" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#56D364">amir@silentmode</tspan><tspan fill="#9DA7B3">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#9DA7B3">$ </tspan><tspan fill="#F0F6FC">kubectl get projects -n silentmode -o wide</tspan></text>
+<text x="36" y="112" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" font-weight="700" fill="#9DA7B3">NAME</text>
+<text x="212" y="112" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" font-weight="700" fill="#9DA7B3">STATUS</text>
+<text x="312" y="112" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" font-weight="700" fill="#9DA7B3">STACK</text>
+<text x="640" y="112" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" font-weight="700" fill="#9DA7B3">RESULT</text>
+<text x="36" y="142" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#58A6FF">cryo</text>
+<text x="212" y="142" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#56D364">Running</text>
+<text x="312" y="142" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#F0F6FC">EC2 · ECS · RDS · EventBridge</text>
+<text x="640" y="142" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#E3B341">~50% off non-prod cost</text>
+<text x="36" y="172" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#58A6FF">qualys-scanpipe</text>
+<text x="212" y="172" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#56D364">Running</text>
+<text x="312" y="172" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#F0F6FC">SQS FIFO · Step Functions</text>
+<text x="640" y="172" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#E3B341">zero manual scans</text>
+<text x="36" y="202" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#58A6FF">kpmg-integration</text>
+<text x="212" y="202" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#56D364">Running</text>
+<text x="312" y="202" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#F0F6FC">EventBridge · SQS · Fargate · S3 · SFTP</text>
+<text x="640" y="202" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#E3B341">hands-off daily delivery</text>
+<text x="36" y="232" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#58A6FF">team (fork)</text>
+<text x="212" y="232" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#56D364">Running</text>
+<text x="312" y="232" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#F0F6FC">short-lived access · IDC · audit trail</text>
+<text x="640" y="232" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#E3B341">every grant time-boxed</text>
+<text x="36" y="268" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#6E7681"># a selection, not the full list</text>
+<text x="36" y="298" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#56D364">amir@silentmode</tspan><tspan fill="#9DA7B3">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#9DA7B3">$ </tspan></text>
+<rect x="190.9" y="285" width="8" height="17" fill="#F0F6FC" fill-opacity="0.85"/>
+</svg>
