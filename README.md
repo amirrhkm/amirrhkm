@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-amirrhkm-181717?style=flat&logo=github)](https://github.com/amirrhkm)
 ![Timezone](https://img.shields.io/badge/Timezone-MYT-FF6B6B?style=flat)
 
-<img src="assets/divider.svg" alt="" width="900">
+<img src="assets/divider-race.svg" alt="" width="900">
 
 </div>
 
@@ -55,7 +55,7 @@
 <img alt="Terminal output of kubectl get projects: cryo (EC2, ECS, RDS and EventBridge scheduler, ~50% off non-prod cost), qualys-scanpipe (SQS FIFO and Step Functions, zero manual scans), kpmg-integration (EventBridge, SQS, Fargate, S3, SFTP, hands-off daily delivery), team fork (Amplify app for short-lived, audited AWS access). A selection, not the full list." src="assets/projects-terminal.svg" width="900">
 </div>
 
-<div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
+<div align="center"><img src="assets/divider-race.svg" alt="" width="900"></div>
 
 ## Stack
 
@@ -71,5 +71,7 @@
 - [ ] **AWS Certified Solutions Architect – Associate** (SAA-C03)
 
 <div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTN1bGtyOHB5dWtueHk5dG00Nmxtd2p3MjJ4ZXpxdmdoZzNwbWFiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RIqAM7VavhVQ6z06ZI/giphy.gif" width="380" alt="Lando Norris celebrating">
+
 <sub>Jack of all trades, master of none, but often times better than master of one.</sub>
 </div>
