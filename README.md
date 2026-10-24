@@ -40,12 +40,19 @@
 </picture>
 </div>
 
+<details>
+<summary><b>Production Incidents</b> · across every environment, all with a root cause and a fix</summary>
+
+<br>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/incidents-dark.svg">
   <img alt="Production incidents across every environment, resolved. Databases: Aurora MySQL 5.7 → 8.0 upgrade, Connection exhaustion, Deadlocks, Long-running queries, Tenant DB degradation, Temp table full. Search & Storage: OpenSearch out of disk, JVM memory pressure, Silent bulk-insert failures, Index retention. Pipelines & Queues: Kinesis & SQS backlogs, Delayed processing, Worker out-of-memory, Full disks, Lambda timeout & memory. MQTT & Station Fleet: Broker CPU exhaustion, Fuel prices not reaching stations, Fleet-wide disconnects, Stale Redis connections, socket.io 404s. Edge & Network: WAF Bot Control blocking traffic, Gateway timeouts & 5xx, Hardening change cutting connectivity. Third Parties: Payment-authorization outages, Integration RPC timeouts, Email blocklisting. Platform & Process: GitLab runners hanging jobs, Flaky E2E pipelines, AWS account migration cutover, RCA write-ups." src="assets/incidents-light.svg" width="900">
 </picture>
 </div>
+
+</details>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="900"></div>
 
