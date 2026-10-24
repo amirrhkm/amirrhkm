@@ -72,6 +72,10 @@ The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS
 </picture>
 </div>
 
+## Goals
+
+- [ ] **AWS Certified Solutions Architect – Associate** (SAA-C03)
+
 <div align="center">
 <sub>Jack of all trades, master of none, but often times better than master of one.</sub>
 </div>
