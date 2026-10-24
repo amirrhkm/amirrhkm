@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="446" viewBox="0 0 900 446" role="img" aria-label="Terminal output of tree on infra: security-compliance contains secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. cloud-foundation contains AWS in every environment, environment and service onboarding as infrastructure as code, backup and restore for databases and GitLab, and cost governance for stale resources and technical debt.">
+<rect x="0.5" y="0.5" width="899" height="445" rx="12" fill="#0D1117" stroke="#30363D"/>
+<path d="M0.5 12.5 a12 12 0 0 1 12 -12 H887.5 a12 12 0 0 1 12 12 V40 H0.5 Z" fill="#161B22"/>
+<circle cx="24" cy="21" r="6" fill="#FF5F57"/><circle cx="46" cy="21" r="6" fill="#FEBC2E"/><circle cx="68" cy="21" r="6" fill="#28C840"/>
+<text x="450.0" y="26" text-anchor="middle" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#9DA7B3">amir@silentmode: ~</text>
+<text x="36" y="78" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#56D364">amir@silentmode</tspan><tspan fill="#9DA7B3">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#9DA7B3">$ </tspan><tspan fill="#F0F6FC">tree -L 2 infra/</tspan></text>
+<text x="36" y="104" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681"></tspan><tspan fill="#58A6FF" font-weight="700">infra/</tspan></text>
+<text x="36" y="130" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">├── </tspan><tspan fill="#58A6FF" font-weight="700">security-compliance/</tspan></text>
+<text x="36" y="156" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#F0F6FC">secrets-and-aws-access</tspan></text>
+<text x="36" y="182" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#F0F6FC">least-privilege-roles</tspan></text>
+<text x="470" y="182" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#6E7681"># TEAM</text>
+<text x="36" y="208" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#F0F6FC">waf-and-aws-security-services</tspan></text>
+<text x="36" y="234" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">│   └── </tspan><tspan fill="#F0F6FC">audit-evidence</tspan></text>
+<text x="470" y="234" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#6E7681"># PCI-DSS · SOC 2 · ISO 27001</text>
+<text x="36" y="260" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">└── </tspan><tspan fill="#58A6FF" font-weight="700">cloud-foundation/</tspan></text>
+<text x="36" y="286" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#F0F6FC">aws-every-environment</tspan></text>
+<text x="36" y="312" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#F0F6FC">environment-and-service-onboarding</tspan></text>
+<text x="470" y="312" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#6E7681"># infrastructure as code</text>
+<text x="36" y="338" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#F0F6FC">backup-and-restore</tspan></text>
+<text x="470" y="338" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#6E7681"># databases · GitLab</text>
+<text x="36" y="364" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#6E7681">    └── </tspan><tspan fill="#F0F6FC">cost-governance</tspan></text>
+<text x="470" y="364" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#6E7681"># stale resources · technical debt</text>
+<text x="36" y="396" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve" fill="#9DA7B3">2 directories, 8 entries</text>
+<text x="36" y="426" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve"><tspan fill="#56D364">amir@silentmode</tspan><tspan fill="#9DA7B3">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#9DA7B3">$ </tspan></text>
+<rect x="190.9" y="413" width="8" height="17" fill="#F0F6FC" fill-opacity="0.85"/>
+</svg>

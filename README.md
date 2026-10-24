@@ -26,13 +26,17 @@
 
 ## Infrastructure
 
-I own the cloud infrastructure behind both products, end to end: how code ships, where it runs, and how it stays secure, observable and cost-efficient.
+I own and maintain the cloud infrastructure of **RONPOS** for Shell MY, Shell SG, BHP, XCel and FIVE, and of **Sentinel** for Petronas: how code ships, where it runs, and how it stays secure, observable and cost-efficient.
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/infra-dark.svg">
-  <img alt="Infrastructure map. Security and Compliance: secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. Delivery: GitLab access, pipelines and runners; SonarQube service onboard; Qualys public network security. Operations: monitoring and alerts with CloudWatch and Sentry; Mailgun email delivery, domains and credentials; on-prem and third-party integrations. Cloud Foundation: AWS in every environment, new environments and service onboarding as code, backup and restore for databases and GitLab, cost governance including stale resources and technical debt." src="assets/infra-light.svg" width="900">
+  <img alt="Delivery and operations loop. Delivery: GitLab access, pipelines and runners; SonarQube service onboard; Qualys public network security. Operations: monitoring and alerts with CloudWatch and Sentry; Mailgun email delivery, domains and credentials; on-prem and third-party integrations." src="assets/infra-light.svg" width="900">
 </picture>
+</div>
+
+<div align="center">
+<img alt="Terminal output of tree on infra: security-compliance contains secrets and AWS access, least-privilege roles for TEAM, WAF and AWS security services, audit evidence for PCI-DSS, SOC 2 and ISO 27001. cloud-foundation contains AWS in every environment, environment and service onboarding as infrastructure as code, backup and restore for databases and GitLab, and cost governance for stale resources and technical debt." src="assets/infra-terminal.svg" width="900">
 </div>
 
 Trusted with production incidents across every environment.
