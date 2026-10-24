@@ -5,6 +5,9 @@
 
 *I run the cloud behind RONPOS and Sentinel.*
 
+**5 production environments · 2,500+ stations**
+<sub>Shell MY · Shell SG · BHP · Petronas · Xcel and Five (in pilot)</sub>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mrnrhkm-0A66C2?style=flat&logo=linkedin&logoSize=auto)](https://www.linkedin.com/in/mrnrhkm/)
 [![GitHub](https://img.shields.io/badge/GitHub-amirrhkm-181717?style=flat&logo=github)](https://github.com/amirrhkm)
 ![Timezone](https://img.shields.io/badge/Timezone-MYT-FF6B6B?style=flat)
@@ -18,13 +21,14 @@
 
 The whole cloud estate: the back-office and head-office platforms (CloudBOS, HOS), the MQTT pipeline from on-prem sites, and every third-party integration, from SFTP report hand-offs to forecourt sales files landing straight in the cloud.
 
-I build and maintain the production pipelines, and when production breaks I'm the one who resolves it, because I know every environment end to end.
+I build and maintain the production pipelines, and when production breaks I'm the one who resolves it, because I know every environment end to end. Seen and fixed: database upgrades, silent data-path failures, gateway timeouts, full disks.
 
 ## Built end-to-end
 
-- **Cryo**: one switch for non-prod. On-demand or scheduled on/off for EC2, ECS, RDS and EventBridge. **~50% off non-prod cloud cost.**
-- **Qualys scan automation**: network scans run inside the production pipeline, driven by SQS FIFO and Step Functions, with status emails and remediation-SLA tracking. **Zero manual scans.**
+- **Cryo**: one switch for non-prod. On-demand or scheduled on/off for EC2, ECS, RDS and EventBridge across 3 UAT environments. **~50% off non-prod cloud cost.**
+- **[Qualys scan automation](https://github.com/amirrhkm/qualys-scanpipe)**: network scans run inside the production pipeline, driven by SQS FIFO and a Step Functions state machine, with status emails, ASV report and attestation, and remediation-SLA tracking. **Zero manual scans.**
 - **KPMG integration**: EventBridge, a Lambda producer, SQS, auto-scaling ECS Fargate workers, S3, then least-privilege SFTP for the third party to collect.
+- **[TEAM (fork)](https://github.com/amirrhkm/team-platform)**: short-lived, audited AWS access for engineers, extended with cross-region IDC and app support.
 
 <details>
 <summary>Stack</summary>
@@ -41,5 +45,7 @@ I build and maintain the production pipelines, and when production breaks I'm th
 </details>
 
 <div align="center">
+<sub>Off the clock: F1 and go-karts, where the only thing I'm trying to keep up is lap time.</sub>
+
 <sub>Jack of all trades, master of none, but often times better than master of one.</sub>
 </div>
