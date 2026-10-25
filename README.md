@@ -7,13 +7,6 @@
 
 <sub>**DevOps Engineer** (*previously Software Engineer*) @ [Silentmode](https://www.silentmode.my/) &nbsp;·&nbsp; **CS (Multimedia) Graduate** @ [UPM](https://www.upm.edu.my/)</sub>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats2-dark.svg">
-  <img alt="5 production environments, about 50% non-prod cost saved" src="assets/stats2-light.svg" width="900">
-</picture>
-
 <sub>Shell · Petronas · BHP Petrol · and more</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mrnrhkm-0A66C2?style=flat&logo=linkedin&logoSize=auto)](https://www.linkedin.com/in/mrnrhkm/)
