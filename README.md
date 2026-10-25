@@ -10,11 +10,11 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="5 production environments, 2,500+ stations served, about 50% non-prod cost saved" src="assets/stats-light.svg" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats2-dark.svg">
+  <img alt="5 production environments, about 50% non-prod cost saved" src="assets/stats2-light.svg" width="900">
 </picture>
 
-<sub>Shell MY · Shell SG · BHP · Petronas · XCel · FIVE</sub>
+<sub>Shell · Petronas · BHP Petrol · and more</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mrnrhkm-0A66C2?style=flat&logo=linkedin&logoSize=auto)](https://www.linkedin.com/in/mrnrhkm/)
 [![GitHub](https://img.shields.io/badge/GitHub-amirrhkm-181717?style=flat&logo=github)](https://github.com/amirrhkm)
